@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welkom op mijn Github
 
-<!--
-**WLFV/WLFV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.instagram.com/wlfv.nl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<img src="https://komarev.com/ghpvc/?username=WLFV&color=blue" alt="watching_count" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>I'm experienced in:</p>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Python</li>
+  <li>Typescript</li>
+  <li>Lua</li>
+</ul>
