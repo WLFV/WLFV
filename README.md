@@ -1,13 +1,16 @@
-### Welkom op mijn Github
+<h1 align="center">Hello 👋, I'm Quinten</h1>
+<h3 align="center">Im some random guy from The Netherlands</h3>
 
-<a href="https://www.instagram.com/wlfv.nl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<img src="https://komarev.com/ghpvc/?username=WLFV&color=blue" alt="watching_count" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wlfv&label=Profile%20views&color=0e75b6&style=flat" alt="wlfv" /> </p>
 
-<p>I'm experienced in:</p>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Python</li>
-  <li>Typescript</li>
-  <li>Lua</li>
-</ul>
+- 👨‍💻 All of my projects are available at [https://github.com/WLFV](https://github.com/WLFV)
+
+- 📝 All my website projects are available at [https://wlfv.nl/projecten](https://wlfv.nl/projecten)
+
+- 📫 Reach me here **info@wlfv.nl**
+
+<h3 align="left">My Socials:</h3>
+<p align="left">
+<a href="https://instagram.com/wlfv.nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wlfv.nl" height="30" width="40" /></a>
+<a href="https://discord.gg/Y8YysQt5QP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Y8YysQt5QP" height="30" width="40" /></a>
+</p>
